@@ -45,3 +45,8 @@ Paradigma: Programação Orientada a Objetos
 📚 Objetivo educacional:
 
 Demonstrar de forma prática o uso dos pilares da POO em um sistema simples, mas completo, que simula um cenário real de controle de elevadores.
+
+🧑‍💻 Autor
+
+Otávio Augusto
+Desenvolvido para a disciplina de Programação Orientada a Objetos (POO) – Faculdade UNIUBE.
